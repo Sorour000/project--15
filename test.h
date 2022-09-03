@@ -4,5 +4,5 @@
 
 int SumValues(int a , int b );
 
-
+int multiply_values(int a , int b) ;
 #endif // TEST_H_INCLUDED
