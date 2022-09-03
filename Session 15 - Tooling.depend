@@ -1,3 +1,11 @@
 # depslib dependency file v1.0
-1662231578 source:c:\projects\session 15 - tooling\test.c
+1662235421 source:c:\projects\session 15 - tooling\test.c
+	"test.h"
+
+1662235309 c:\projects\session 15 - tooling\test.h
+
+1662235520 source:c:\projects\session 15 - tooling\main.c
+	<stdio.h>
+	<stdlib.h>
+	"test.h"
 
